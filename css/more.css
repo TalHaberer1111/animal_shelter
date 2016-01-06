@@ -1,0 +1,31 @@
+.column1 {
+
+  color: red;
+  width: 550px;
+  float: left;
+}
+
+.column2  {
+  color: yellow;
+  background-color: black;
+  width: 550px;
+  float: left;
+}
+
+.column3 {
+  font-size: 50px;
+  color: darkgreen;
+  width: 550px;
+  float: left;
+}
+
+h4 {
+  color: black
+}
+
+a {
+  color: purple;
+  font-style: italic;
+  font-family: monospace;
+  font-size: 20px;
+}
